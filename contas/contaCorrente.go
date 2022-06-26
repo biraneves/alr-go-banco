@@ -72,3 +72,9 @@ func (c *ContaCorrente) Transferir(valor float64, contaDestino *ContaCorrente) (
 	return msg, success
 
 }
+
+func (c *ContaCorrente) obterSaldo() float64 {
+
+	return c.saldo
+
+}
