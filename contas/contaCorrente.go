@@ -1,7 +1,11 @@
 package contas
 
+import (
+	"github.com/alura/alr-go-banco/clientes"
+)
+
 type ContaCorrente struct {
-	Titular string
+	Titular clientes.Cliente
 	NumeroAgencia int
 	NumeroConta int
 	Saldo float64
