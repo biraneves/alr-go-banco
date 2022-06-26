@@ -35,7 +35,7 @@ func main() {
 	contaDoBruno.Depositar(200)
 	contaDaSilvia.Depositar(400)
 
-	fmt.Println(contaDoBruno)
-	fmt.Println(contaDaSilvia)
+	fmt.Println("Saldo do Bruno:", contaDoBruno.ObterSaldo())
+	fmt.Println("Saldo da Silvia:", contaDaSilvia.ObterSaldo())
 	
 }
