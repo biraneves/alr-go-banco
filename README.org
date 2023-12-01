@@ -3,7 +3,7 @@
 #+date: 2023-06-30
 
 
-> Project developed during the course **Go: Orientação a Objetos** (Go: Object Orientation), by [Alura](https://alura.com.br).
+> Project developed during the course *Go: Orientação a Objetos* (Go: Object Orientation), by [[https://alura.com.br][Alura]].
 
 * Project Overview
 
