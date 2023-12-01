@@ -1,0 +1,29 @@
+#+title: Bank account - basic features in Go with OO
+#+author: Ubirajara Neves
+#+date: 2023-06-30
+
+* Bank account - basic features in Go with OO
+
+> Project developed during the course **Go: Orientação a Objetos** (Go: Object Orientation), by [Alura](https://alura.com.br).
+
+** Project Overview
+
+This project, a key component on the **Go: Object Orientation** course offered by Alura, demonstrates the implementation of fundamental banking operations. It features both checking and savings account functionalities, meticulously crafted using object-oriented programming (OOP) concepts in Go.
+
+** Execution Environment
+
+- **Platform:** console-based application.
+
+** Technologies Utilized
+
+- **Primary Language:** Go.
+
+** Future Enhancements
+
+- [ ] Developing a user-friendly text-bases interface within the console.
+- [ ] Introducing account holder registration features.
+- [ ] Implementing data persistence for long-time information storage.
+
+** Challenges Encountered
+
+The primary challenge was transitioning from the traditional OOP methodologies, commonly seen in languages like Java, to the unique approach adopted by Go. This transition, while challenging, proved to be a valuable learning experience, pushing the boundaries of my conventional programming practices.
